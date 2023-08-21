@@ -6,9 +6,10 @@ Step 3: Install [Git](https://git-scm.com/downloads) and [Github Desktop](https:
 Step 4: Clone the repo to be stored locally. To do this, open a normal terminal or command prompt window and run the following command:<br><br>
 ```git clone https://github.com/<your-username>/lp-compat.git```<br><br>
 Example: ```git clone https://github.com/rarelygoeshere/lp-compat.git```<br><br>
-Step 5: Once this is done, locate where the repo's folder is saved. Use everything by Void Tools to hasten this search<br><br>
+Step 5: Once this is done, locate where the repo's folder is saved. Use [Everything by Voidtools[(https://www.voidtools.com/) to hasten this search<br><br>
 Step 6: Open Github Desktop.<br><br>
 Step 7: Add the local repo to Github Desktop. You can start by either clicking "Add an existing Repository from your hard drive" or navigate to the File button at the top leftmost, then click it to open a drop-down list, then choose "Add local repository...". Moreover, you can quickly use the hotkey Ctrl + O to open the Add local repository window<br><br>
 Step 8: Press "choose..." to start locating your repo folder manually, or copypaste the address of the repo folder to the local path textbox<br><br>
 Step 9: Press "Add repository"<br><br>
-Step 10: 
+Step 10: Once the process is completed, press "Show in Explorer", or the hotkey ```Ctrl + Shift + D``` to view the files of your repository in Explorer
+Step 11:
