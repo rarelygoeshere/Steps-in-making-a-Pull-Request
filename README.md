@@ -2,7 +2,7 @@
 Here is my own Step-by-step, simple instructions on how I can make a pull request (PR) for any repos I want on PC<br><br>
 Step 1: Choose the repo I want to make a PR for<br><br>
 Step 2: Fork the repo to my own account<br><br>
-Step 3: Install Git and Github Desktop (Git is a prerequisite for the next steps, and Github Desktop will make the subsequent steps easier)<br><br> 
+Step 3: Install Git and [Github Desktop](https://desktop.github.com/) (Git is a prerequisite for the next steps, and Github Desktop will make the subsequent steps easier)<br><br> 
 Step 4: Clone the repo to be stored locally. To do this, open a normal terminal or command prompt window and run the following command:<br><br>
 ```git clone https://github.com/<your-username>/lp-compat.git```<br><br>
 Example: ```git clone https://github.com/rarelygoeshere/lp-compat.git```<br><br>
