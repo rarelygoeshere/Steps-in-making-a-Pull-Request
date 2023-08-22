@@ -1,5 +1,5 @@
 # Steps-in-making-a-Pull-Request<br>
-Here is my own step-by-step, simple instructions on how I can make a pull request (PR) for any repos I want on a PC<br><br>
+Here is my own step-by-step, simple instructions on how I can make a pull request (PR) for any repos I want on a PC<br>
 - Choose the repo you want to make a PR for
 - [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repo to your own account
 - Install [Git](https://git-scm.com/) and [Github Desktop](https://desktop.github.com/) (Git is a prerequisite for the next steps, and Github Desktop will make the subsequent steps easier)
