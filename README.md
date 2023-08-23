@@ -3,10 +3,10 @@ Here is my own step-by-step, simple instructions on how I can make a pull reques
 Method 1: github.dev web editor
 - Choose the repo you want to make a PR for
 - On the same browser tab, you can open the [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) in the following ways:<br>
- &nbsp; 1. To open the repository in the same browser tab, press . while browsing any repository or pull request on GitHub.
- &nbsp; 2. To open the repository in a new browser tab, press >.
- &nbsp; 3. Change the URL from "github.com" to "github.dev".
- &nbsp; 4. When viewing a file, select the dropdown menu and click github.dev.
+1. To open the repository in the same browser tab, press . while browsing any repository or pull request on GitHub.
+2. To open the repository in a new browser tab, press >.
+3. Change the URL from "github.com" to "github.dev".
+4. When viewing a file, select the dropdown menu and click github.dev.
 - 
 Method 2: Traditional
 - Choose the repo you want to make a PR for
