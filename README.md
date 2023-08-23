@@ -2,7 +2,7 @@
 Here is my own step-by-step, simple instructions on how I can make a pull request (PR) for any repos I want on a PC<br>
 Method 1: github.dev web editor
 - Choose the repo you want to make a PR for
-- On the same browser tab, you can open the [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) in the following ways:
+- On the same browser tab, you can open the [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) in the following ways:<br>
  &nbsp; 1. To open the repository in the same browser tab, press . while browsing any repository or pull request on GitHub.
  &nbsp; 2. To open the repository in a new browser tab, press >.
  &nbsp; 3. Change the URL from "github.com" to "github.dev".
