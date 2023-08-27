@@ -7,9 +7,10 @@ Here is my own step-by-step, simple instructions on how I can make a pull reques
 2. To open the repository in a new browser tab, press >
 3. Change the URL from "github.com" to "github.dev"
 4. When viewing a file, select the dropdown menu and click github.dev
-- In the web editor, look to the left hand side to see  "Source Control" view along with the explorer panel, and all of the repo's files
+- In the web editor, look to the left hand side to see  "Source Control" view along with the explorer panel which displays all of the repo's files
 - Navigate to the file of your choice and click on them to open a tab and begin typing. If the tab in on preview, simply double click to edit in markdown.
--  
+-  Once you are done, scroll down the Source Control view to see the "Commit & Push" button. Type in the message textbox pertaining what you did (This is mandatory), then press the aforementioned button below.
+- 
 ## Method 2: Traditional
 - Choose the repo you want to make a PR for
 - [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repo to your own account
