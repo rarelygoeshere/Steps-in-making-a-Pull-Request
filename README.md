@@ -1,5 +1,5 @@
 # Steps-in-making-a-Pull-Request<br>
-Here are my own step-by-step, simple instructions on how I can make a pull request (PR) for any repos I want on a PC. Two methods are detailed below.<br> 
+Here are my own step-by-step, simple instructions on how I can make a pull request (PR) for any repos I want on a PC. There are two methods to go about doing this:<br> 
 ## Method 1: github.dev web editor
 - Choose the repo you want to make a PR for
 - On the same browser tab, you can open the [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) in the following ways:<br>
