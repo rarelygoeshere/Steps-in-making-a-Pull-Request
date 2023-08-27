@@ -10,7 +10,10 @@ Here is my own step-by-step, simple instructions on how I can make a pull reques
 - In the web editor, look to the left hand side to see  "Source Control" view along with the explorer panel which displays all of the repo's files
 - Navigate to the file of your choice and click on them to open a tab and begin typing. If the tab in on preview, simply double click to edit in markdown.
 -  Once you are done, scroll down the Source Control view to see the "Commit & Push" button. Type in the message textbox pertaining what you did (This is mandatory), then press the aforementioned button below.
+- If it is done properly, a popup will appear asking if you want to fork the project you are trying to make changes to. Press "Fork Repository". 
+- Another popup will appear, asking you to provide a new branch name. Type in the name you want then either Press "Enter" to confirm, or "Escape" to cancel.
 - 
+
 ## Method 2: Traditional
 - Choose the repo you want to make a PR for
 - [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repo to your own account
