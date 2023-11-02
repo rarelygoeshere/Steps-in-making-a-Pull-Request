@@ -41,9 +41,9 @@ Here are my own step-by-step, simple instructions on how I can make a pull reque
 - Choose the repo you want to make a PR for
 - Click on the page you want to edit
 - Select the edit button (the pencil icon button) and make your changes
-![github file edit button](https://github.com/rarelygoeshere/Steps-in-making-a-Pull-Request/assets/125143953/d53cf5ec-6ed9-47b0-ab69-7a57b5c7a983)
+- ![github file edit button](https://github.com/rarelygoeshere/Steps-in-making-a-Pull-Request/assets/125143953/d53cf5ec-6ed9-47b0-ab69-7a57b5c7a983)
 - Select **Fork this repository** and begin making your changes
-![github fork repo button](https://github.com/rarelygoeshere/Steps-in-making-a-Pull-Request/assets/125143953/6b01b898-ad98-48f8-b815-8eb8518801c1)
+- ![github fork repo button](https://github.com/rarelygoeshere/Steps-in-making-a-Pull-Request/assets/125143953/6b01b898-ad98-48f8-b815-8eb8518801c1)
 - Select **Commit changes...** once you are finished
 - Select **Propose changes** (The commit message and extended description are optional)
 - Select **Create pull request** on the next page
